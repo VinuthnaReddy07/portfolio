@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Calibri", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Calibri", serif;
+
+  --color-brand: #c3a6a0;
+  --color-bg-warm: #f2ede4;
+  --color-ink: #000000;
+}
+
+@layer base {
+  body {
+    @apply bg-[var(--color-bg-warm)] text-[var(--color-ink)] antialiased;
+    font-family: "Calibri", ui-sans-serif, system-ui, sans-serif;
+    font-style: italic;
+  }
+}
+
+@layer components {
+  .arch-frame {
+    border-top-left-radius: 1000px;
+    border-top-right-radius: 1000px;
+  }
+}
