@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Vinuthna Reddy – AI Engineer Portfolio 🚀
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio website.
 
-This contains everything you need to run your app locally.
+## 🔗 Live Portfolio
+👉 https://remarkable-custard-f1b904.netlify.app
 
-View your app in AI Studio: https://ai.studio/apps/c409d8ba-52b2-4e55-8759-8057b1b28e87
+## 💻 About Me
+I am a Computer Science student passionate about:
+- AI & Machine Learning
+- Cloud Computing (AWS)
+- Full Stack Development
 
-## Run Locally
+## 🛠 Tech Stack
+- Java, Python
+- React, Vite
+- Spring Boot
+- AWS (EC2, S3)
+- MySQL
 
-**Prerequisites:**  Node.js
+## 📂 Projects
+### 1. Resolve-It (Grievance System)
+- Built using React + Spring Boot
+- Complaint tracking system with dashboards
 
+### 2. Wind Turbine Damage Detection
+- YOLOv8-based deep learning project
+- Detects structural damage from images
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📄 Resume
+👉 [Download Resume](./public/resume.pdf)
+
+---
+
+⭐ Feel free to explore my work and connect with me!
